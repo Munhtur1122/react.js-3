@@ -1,0 +1,14 @@
+
+.button-black{
+    background-color: rgb(199, 22, 22);
+}
+.button-blue{
+    background-color: rgb(59, 30, 30);
+}
+.img{
+    width: 20px;
+    height: 20px;
+}
+.displaynone{
+    display: none;
+}
